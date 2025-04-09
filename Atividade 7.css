@@ -1,0 +1,44 @@
+.Body {
+    background-color: #123123;
+    width: 1500px;
+    height: 4000px;
+    margin:auto
+}
+.Image-1 {
+    margin-left: 30px;
+    margin-top: 18px;
+}
+.Image-2 {
+    background-image:url(jp_menuFundo.jpg);
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    border: 1px solid #ffffff;
+    position: relative;
+    margin-bottom: px;
+    
+}
+.Text-1 {
+    position: relative;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    margin-top: 13px;
+    margin-left: 340px;
+
+}
+.Top {
+    background-image:url(jp_topoFundo.jpg);
+    width: 1400px;
+    height: 200px;
+    margin: auto;
+    position: relative;
+}
+.Name {
+    color: #ffffff;
+    margin: auto;
+    margin-left: 50%;
+}
+.Title {
+
+}
